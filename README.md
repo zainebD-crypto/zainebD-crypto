@@ -16,4 +16,4 @@ I'm currently building an automated network enumeration platform that helps pent
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-If you want to reach me, you can find me on [LinkedIn](https://linkedin.com/in/your-profile), by [email](mailto:you@example.com), or on my [portfolio](https://your-portfolio.com).
+If you want to reach me, you can find me on [LinkedIn](https://www.linkedin.com/in/zaineb-dagdoug-795974386/), by [email](mailto:zaineb.dagdoug@etudiant-enit.utm.tn), or on my [portfolio](https://your-portfolio.com).
