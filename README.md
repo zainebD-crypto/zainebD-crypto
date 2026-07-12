@@ -5,7 +5,7 @@ I'm **Zaineb Dagdoug**, a computer engineering student at the National Engineeri
 I'm currently building an automated network enumeration platform that helps pentesters enumerate targets and surface attack vectors faster.
 \
 But in reality if you ask me what im building, i would say im building a life that does not make me feel like i am constantly recovering from it.
-I am building mornings that begin with clarity instead od dread, work that respects my mind instead of draining it, and a future where peace is not something I have to earn after exhaustion.
+I am building mornings that begin with clarity instead of dread, work that respects my mind instead of draining it, and a future where peace is not something I have to earn after exhaustion.
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
