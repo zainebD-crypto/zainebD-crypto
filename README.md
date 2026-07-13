@@ -4,6 +4,7 @@ I'm **Zaineb Dagdoug**, a computer engineering student at the National Engineeri
 
 I'm currently building an automated network enumeration platform that helps pentesters enumerate targets and surface attack vectors faster.
 
+Recently, i am working on getting hands on AI security because adopting AI isn't just a nice-to-have, it's a competitive security advantage.
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
